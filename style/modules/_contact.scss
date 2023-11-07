@@ -36,10 +36,15 @@
         padding-bottom: 2.3rem;
       }
   
+      dd:nth-of-type(6){
+        width: 100%;
+      }
+
       dt:nth-of-type(6){
         padding: initial;
         text-indent: -9999px;
       }
+
       dt:nth-of-type(7){
         padding: initial;
         text-indent: -9999px;

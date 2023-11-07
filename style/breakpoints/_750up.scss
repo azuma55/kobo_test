@@ -50,11 +50,11 @@ header{
 }
 
 .hero{
-    height: 850px;
+    height: 750px;
     top: 60px;
 
     .hero_img{
-    background-image: url(../img/hero_pc_2.jpg);
+    background-image: url(../img/hero_pc.jpg);
     }
 }
 
@@ -214,6 +214,10 @@ header{
             width: 13rem;
             }
 
+            p{
+                font-size: 1.5rem;
+            }
+
             li{
                 font-size: 1.5rem;
             }
@@ -221,10 +225,6 @@ header{
 
         .column{
             max-width: 750px;
-        }
-
-        .history dt{
-            width: 20%;
         }
     }
 
